@@ -1,0 +1,1 @@
+MySQL is better for consistency.

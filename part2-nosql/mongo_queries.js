@@ -1,0 +1,1 @@
+// OP1 db.products.insertMany([]);

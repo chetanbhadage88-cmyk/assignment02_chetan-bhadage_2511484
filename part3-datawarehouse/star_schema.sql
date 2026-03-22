@@ -1,0 +1,1 @@
+CREATE TABLE dim_date (date_id INT);
