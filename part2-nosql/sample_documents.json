@@ -1,5 +1,35 @@
 [
-{"name":"iPhone 14","category":"Electronics","price":80000},
-{"name":"T-Shirt","category":"Clothing","price":1200},
-{"name":"Milk","category":"Groceries","price":60}
+  {
+    "name": "iPhone 14",
+    "category": "Electronics",
+    "price": 80000,
+    "specs": {
+      "brand": "Apple",
+      "warranty_years": 1,
+      "voltage": "220V"
+    }
+  },
+  {
+    "name": "Men T-Shirt",
+    "category": "Clothing",
+    "price": 1200,
+    "specs": {
+      "size": ["M", "L", "XL"],
+      "material": "Cotton",
+      "color": "Black"
+    }
+  },
+  {
+    "name": "Milk",
+    "category": "Groceries",
+    "price": 60,
+    "specs": {
+      "expiry_date": "2024-12-01",
+      "weight": "1L",
+      "nutrition": {
+        "calories": 150,
+        "fat": "8g"
+      }
+    }
+  }
 ]
